@@ -52,4 +52,4 @@ jobs:
           app-name: 'Pos-Sysytem'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4BBF2B108D9D4426BF21EA851A53ECAF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_375EEF73034C4822A7781758FE9D8DC9 }}
